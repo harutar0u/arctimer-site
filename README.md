@@ -1,4 +1,4 @@
-# ArcTimer Support Site
+# MinuteGlass Support Site
 
 This repository contains the public support and privacy pages needed for App Store Connect.
 
@@ -13,8 +13,8 @@ This repository contains the public support and privacy pages needed for App Sto
 - `assets/icons/app-icon-1024.png`
 - `assets/icons/app-icon-180.png`
 - `assets/icons/app-icon-120.png`
-- `assets/screenshots/arctimer-main.png`
-- `assets/screenshots/arctimer-main.jpg`
+- `assets/screenshots/minuteglass-main.png`
+- `assets/screenshots/minuteglass-main.jpg`
 
 ## Recommended URLs
 
@@ -48,5 +48,7 @@ After the repository is pushed to GitHub:
 
 The published URLs will look like:
 
-- Support URL: `https://harutar0u.github.io/arctimer-site/support.html`
-- Privacy Policy URL: `https://harutar0u.github.io/arctimer-site/privacy.html`
+- Support URL: `https://harutar0u.github.io/minuteglass-site/support.html`
+- Privacy Policy URL: `https://harutar0u.github.io/minuteglass-site/privacy.html`
+
+The repository name and public GitHub Pages path should stay aligned with `minuteglass-site` for release.
