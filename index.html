@@ -5,12 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>ArcTimer</title>
     <meta name="description" content="ArcTimer is a quiet visual timer with a clean analog-inspired dial.">
+    <link rel="icon" href="./assets/icons/app-icon-120.png">
+    <link rel="apple-touch-icon" href="./assets/icons/app-icon-180.png">
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body>
     <header class="shell nav">
       <a class="brand" href="./index.html" aria-label="ArcTimer home">
-        <span class="mark" aria-hidden="true"></span>
+        <img class="app-icon-small" src="./assets/icons/app-icon-120.png" alt="" aria-hidden="true">
         <span>ArcTimer</span>
       </a>
       <nav class="links" aria-label="Main navigation">
@@ -29,7 +31,9 @@
             <a class="button" href="./privacy.html">Privacy Policy</a>
           </div>
         </div>
-        <div class="dial" aria-label="Abstract analog timer dial"></div>
+        <figure class="phone-shot">
+          <img src="./assets/screenshots/arctimer-main.jpg" alt="ArcTimer main screen showing a visual timer dial set to 45 minutes.">
+        </figure>
       </section>
 
       <section class="section">
@@ -49,6 +53,15 @@
           </article>
         </div>
       </section>
+
+      <section class="section">
+        <h2>Site assets</h2>
+        <div class="asset-row">
+          <a class="asset-link" href="./assets/icons/app-icon-1024.png">App icon 1024px</a>
+          <a class="asset-link" href="./assets/icons/app-icon-180.png">App icon 180px</a>
+          <a class="asset-link" href="./assets/screenshots/arctimer-main.png">Screenshot PNG</a>
+        </div>
+      </section>
     </main>
 
     <footer class="shell footer">
@@ -56,4 +69,3 @@
     </footer>
   </body>
 </html>
-

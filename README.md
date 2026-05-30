@@ -8,6 +8,14 @@ This repository contains the public support and privacy pages needed for App Sto
 - `support.html`
 - `privacy.html`
 
+## Assets
+
+- `assets/icons/app-icon-1024.png`
+- `assets/icons/app-icon-180.png`
+- `assets/icons/app-icon-120.png`
+- `assets/screenshots/arctimer-main.png`
+- `assets/screenshots/arctimer-main.jpg`
+
 ## Recommended URLs
 
 After deployment, use:
